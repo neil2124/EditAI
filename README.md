@@ -59,6 +59,15 @@ Ensure you have the following installed:
 - **Node.js**
 - **npm or yarn**
 
+Environment Variables
+Create a .env.local file and configure the required API keys for:
+
+MongoDB
+Cloudinary
+Stripe
+Clerk Authentication
+
+
 ### **Installation Steps**
 ```bash
 # Clone the repository
