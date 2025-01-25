@@ -6,7 +6,7 @@ This AI-powered SaaS platform provides advanced image processing capabilities, o
 This platform is perfect for designers, photographers, businesses, and AI enthusiasts looking for **an efficient image transformation tool** powered by **cutting-edge AI models**.
 
 ## 🔗 Live Demo
-[Click here to view the live project](#) *(Replace with actual link)*
+[https://edit-ai.neilmascarenhas.com/](#) 
 
 ## 📸 Screenshots
 *(Add relevant screenshots showcasing the platform in action)*
@@ -68,13 +68,14 @@ Stripe
 Clerk Authentication
 
 
+
 ### **Installation Steps**
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_GITHUB_REPO.git
+git clone https://neil2124/EditAI.git
 
 # Navigate to the project directory
-cd project-name
+cd EditAI
 
 # Install dependencies
 npm install
