@@ -79,8 +79,10 @@ const TransformationForm = ({ action, data = null, userId, type, creditBalance, 
         ...transformationConfig
       })
 
+      const generateRandomTitle = () => `Image_${Math.random().toString(36).substr(2, 8)}`;
+
       const imageData = {
-        title: values.title,
+        title: values.title || generateRandomTitle(),
         publicId: image?.publicId,
         transformationType: type,
         width: image?.width,
